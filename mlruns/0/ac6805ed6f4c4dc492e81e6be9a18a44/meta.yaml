@@ -1,0 +1,15 @@
+artifact_uri: file:///config/workspace/mlruns/0/ac6805ed6f4c4dc492e81e6be9a18a44/artifacts
+end_time: 1705597736594
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ac6805ed6f4c4dc492e81e6be9a18a44
+run_name: gaudy-finch-249
+run_uuid: ac6805ed6f4c4dc492e81e6be9a18a44
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705597736581
+status: 3
+tags: []
+user_id: abc

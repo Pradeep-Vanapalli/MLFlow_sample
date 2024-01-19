@@ -1,0 +1,15 @@
+artifact_uri: file:///config/workspace/mlruns/0/b17d1ac6910445a0a924b46fa1665d5f/artifacts
+end_time: 1705597783258
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b17d1ac6910445a0a924b46fa1665d5f
+run_name: sneaky-fly-933
+run_uuid: b17d1ac6910445a0a924b46fa1665d5f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705597783244
+status: 3
+tags: []
+user_id: abc

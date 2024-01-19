@@ -1,0 +1,15 @@
+artifact_uri: file:///config/workspace/mlruns/0/60e01c38de784e399a9cfafd6634f527/artifacts
+end_time: 1705597625017
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 60e01c38de784e399a9cfafd6634f527
+run_name: sassy-turtle-44
+run_uuid: 60e01c38de784e399a9cfafd6634f527
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705597625007
+status: 4
+tags: []
+user_id: abc

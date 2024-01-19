@@ -1,0 +1,15 @@
+artifact_uri: file:///config/workspace/mlruns/0/bd6efc4ce0014756befabc8bef70beb7/artifacts
+end_time: 1705597858006
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bd6efc4ce0014756befabc8bef70beb7
+run_name: dashing-deer-85
+run_uuid: bd6efc4ce0014756befabc8bef70beb7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705597857992
+status: 3
+tags: []
+user_id: abc
